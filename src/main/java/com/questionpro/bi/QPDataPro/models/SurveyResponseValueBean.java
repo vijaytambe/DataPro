@@ -4,9 +4,6 @@ import javax.validation.constraints.NotNull;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Angad on 12/27/17.
- */
 public class SurveyResponseValueBean {
     private Long questionID;
     private String questionDescription;
